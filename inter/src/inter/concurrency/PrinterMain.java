@@ -1,4 +1,4 @@
-package inter;
+package inter.concurrency;
 
 public class PrinterMain {
 
